@@ -1,0 +1,9 @@
+{
+    "solidity.compileUsingRemoteVersion": "v0.8.16+commit.07a7930e",
+    "solidity.remappings": [
+        "@openzeppelin=./node_modules/@openzeppelin",
+        "src=./src",
+        "@solmate=./node_modules/solmate/src",
+        "@chainlink=./node_modules/@chainlink",
+      ]
+}
